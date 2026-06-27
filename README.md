@@ -1,10 +1,13 @@
 # Hey there, I'm Jatin Aggarwal 👋
 
 <div align="center">
-  <h3>✨ Final Year CSE Undergrad | Deep Diving into Data Science & AI/ML ✨</h3>
+  <!-- Looping Developer GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" width="380" alt="Coding Loop" />
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://linkedin.com/in/jatin-agarwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" />
   </a>
@@ -14,7 +17,7 @@
   <a href="https://github.com/JatinAggarwal5320" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
 ---
 
