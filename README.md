@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Looping Developer GIF -->
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="380" alt="Coding Loop" />
+  <img src="[https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="380" alt="Coding Loop](https://raw.githubusercontent.com/raspu/Highlightr/master/coding.gif)" />
 </div>
 
 <br/>
