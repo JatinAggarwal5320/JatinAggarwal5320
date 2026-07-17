@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/jatin-agarwal" target="_blank">
+  <a href="https://www.linkedin.com/in/jatin-aggarwal-12030b24a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" />
   </a>
   <a href="mailto:aggarwaljatin5320@gmail.com" target="_blank">
